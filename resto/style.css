@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@700&family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@700&display=swap');
+
+
+.nn-navbar{
+   background-color: rgba(0, 0, 0, 0.644);
+   z-index: 99;
+   position: fixed
+   
+   
+}
+.banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('/resto/rest1.jpg') center fixed;
+    height: 500px;
+   
+}  
+.cc-menu{
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('/resto/rest1.jpg') center fixed;
+
+}
+.cont-foot{
+    width: 100%;
+    z-index: 99;
+}
+h1{
+    color: rgb(232, 247, 28);
+    size: 10px;
+    
+    
+} 
+.row-btn{
+    color: rgb(255, 0, 0);
+}
+.card-body p.a{
+    color: chartreuse;
+}
